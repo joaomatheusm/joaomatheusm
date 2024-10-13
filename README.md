@@ -26,3 +26,5 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=joaomatheusm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomatheusm&layout=compact&&hide_title=true&theme=radical" />
