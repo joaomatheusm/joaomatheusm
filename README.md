@@ -1,10 +1,10 @@
 ### Olá! Me chamo João Matheus. ✋
-#### Desenvolvedor Técnico na [Global Hitss](https://www.linkedin.com/company/global-hitss/posts/?feedView=all).
+#### Atualmente, atuo como Desenvolvedor Técnico na [Global Hitss](https://www.linkedin.com/company/global-hitss/posts/?feedView=all), trabalhando no sistema de faturamento #### ARBOR com C++, C, Shell Script e Oracle em ambientes Unix. Minha experiência inclui a manipulação de bancos de dados Oracle e desenvolvimento/manutenção de scripts.
 #### Estudante de Análise e Desenvolvimento de Sistemas. 🎓
 <hr>
 
 ### Hello! I'm João Matheus. ✋
-#### Technical Developer at [Global Hitss](https://www.linkedin.com/company/global-hitss/posts/?feedView=all).
+#### I currently work as a Technical Developer at [Global Hitss](https://www.linkedin.com/company/global-hitss/posts/?feedView=all), working on the ARBOR billing system using #### C++, C, Shell Script, and Oracle in Unix environments. My experience includes handling Oracle databases and developing/maintaining scripts.
 #### Systems Analysis and Development student. 🎓
 <hr>
 
